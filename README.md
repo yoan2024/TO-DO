@@ -14,5 +14,5 @@ To-Do clasico, hecha con react, css
 
 #mirar projecto
 
-to-do-jet-two-70.vercel.app
+https://to-do-jet-two-70.vercel.app
 
